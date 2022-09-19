@@ -1,0 +1,113 @@
+body{
+    width: 100%; 
+    background-color: rgb(116, 11, 11);
+}
+.row{
+    width: 100%; 
+    display: flex;
+
+}
+
+.col-1{width: 8%; }
+.col-2{width: 17%; }
+.col-3{width: 25%; }
+.col-4{width: 33.33%; }
+.col-5{width: 42%;}
+.col-6{width: 50%; }
+.col-7{width: 58%; }
+.col-8{width: 66%; }
+.col-9{width: 75%; }
+.col-10{width: 83%; }
+.col-11{width: 91%; }
+.col-12{width: 100%; }
+
+.header{
+    height: 20%; 
+    width: 100%; 
+    background-color: blue;
+}
+.topnav{
+    height: 3%; 
+    background-color: black; 
+    color: white; 
+    text-align: center;
+}
+.menu {
+    height: 4%; 
+    background-color: white;
+}
+.user-info{
+    background-color: yellow;
+}
+.search{
+    text-align: center;
+    background-color: rgb(160, 160, 170);
+}
+.cart{
+
+}
+.user{
+
+}
+.seller{
+
+}
+
+.content{
+
+}
+.title{
+text-align: center;
+background-color: blueviolet;
+}
+.category{
+    text-align: center;
+    background-color: rgb(170, 44, 44);
+}
+.main-store{
+    height: 600px;
+    color: white;
+    background-color: black;
+}
+.sidebar{
+    height: 600px;
+    color: black;
+    background-color: yellow;
+}
+.filter{
+    height: 200px;
+    color: black;
+    background-color: rgb(160, 93, 199);
+}
+.item_cate{
+    height: 200px;
+    color: rgb(243, 239, 239);
+    background-color: rgb(104, 12, 12);
+}
+.shipping{
+    height: 200px;
+    color: rgb(243, 239, 239);
+    background-color: rgb(37, 3, 56);
+}
+.store{
+    height: 600px;
+    color: black;
+    background-color: rgb(4, 95, 42);
+}
+.ad-banner{
+    text-align: center;
+    height: 150px;
+    color: black;
+    background-color: rgb(253, 253, 253);
+}
+.products{
+    text-align: center;
+    height: 450px;
+    color: black;
+    background-color: rgb(110, 134, 160);
+}
+.footer{
+    text-align: center;
+    height: 50px;
+    background-color: rgb(252, 253, 252);
+}
